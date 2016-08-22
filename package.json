@@ -1,0 +1,24 @@
+{
+  "name": "sevi",
+  "version": "1.0.0",
+  "description": "This is my first git project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alochious/Sevi.git"
+  },
+  "keywords": [
+    "sevi",
+    "node",
+    "test"
+  ],
+  "author": "Alochious Dass",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alochious/Sevi/issues"
+  },
+  "homepage": "https://github.com/Alochious/Sevi#readme"
+}
